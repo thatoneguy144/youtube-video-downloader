@@ -6,7 +6,6 @@
   <li>Fast</li>
 
 # How to use
-1. [Download the Executable (.exe)](https://github.com/thatoneguy144/youtube-video-downloader/releases/download/v1.0.0/yt_vid_downloader.exe) <br>
-2. Copy the source code and paste it into your code editor of choice. Install the requirements
+Either [Download the Executable Version](https://github.com/thatoneguy144/youtube-video-downloader/releases/download/v1.0.0/yt_vid_downloader.exe) or copy main.py and paste it into your code editor of choice.
 
 
