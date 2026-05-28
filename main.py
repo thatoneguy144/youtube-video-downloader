@@ -292,7 +292,7 @@ def build_download_buttons():
     video_download_button.pack(side='left', padx=5)
 
 root = tk.Tk()
-root.title("Youtube Video/Audio Downloader")
+root.title("Youtube Video/Audio Downloader - thatoneguy")
 url_input = None
 
 screen_width = root.winfo_screenwidth()
